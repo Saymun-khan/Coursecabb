@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Saymun-khan/Coursecabb.git/static/css/main.a582ae5d.css",
+    "main.js": "/Saymun-khan/Coursecabb.git/static/js/main.58cef838.js",
+    "static/media/bannerimgone.jpg": "/Saymun-khan/Coursecabb.git/static/media/bannerimgone.4599c155cfd08bc1f3c9.jpg",
+    "static/media/profile.png": "/Saymun-khan/Coursecabb.git/static/media/profile.ede75e43c68251152096.png",
+    "static/media/pic2.jpg": "/Saymun-khan/Coursecabb.git/static/media/pic2.a02ab35468386ca0016e.jpg",
+    "static/media/pic1.jpg": "/Saymun-khan/Coursecabb.git/static/media/pic1.0e50c3d079f470bc8d1a.jpg",
+    "index.html": "/Saymun-khan/Coursecabb.git/index.html",
+    "main.a582ae5d.css.map": "/Saymun-khan/Coursecabb.git/static/css/main.a582ae5d.css.map",
+    "main.58cef838.js.map": "/Saymun-khan/Coursecabb.git/static/js/main.58cef838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a582ae5d.css",
+    "static/js/main.58cef838.js"
+  ]
+}
